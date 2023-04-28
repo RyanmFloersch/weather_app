@@ -1,5 +1,5 @@
-# weather_app
-A weather dashboard that will run in the browser and feature dynamically updated html and css
+# Weather_app
+A weather dashboard that will run in the browser and feature dynamically updated html and css. The app makes use of bootstrap for css styling and javascript using jquery to update the information displayed in the app. Using open weather map api to retrieve data  the app displays the weather forcast for the upcoming days.  
 
 
 ### Resources
